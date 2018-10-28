@@ -7,7 +7,7 @@ var targetList;
 var targetCount = 22;
 var channelId = 0;
 
-var sheetId = process.env.SHEET_ID;
+var sheetId = process.env.SHEET_ID;Dg1NDc2MjU1NzU2NzE0MDA1.DmxUtw.dT4-QTA_jdPP7LOWD6bmiWMQf50
 
 var doc = new GoogleSpreadsheet(sheetId);
 
